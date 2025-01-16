@@ -27,7 +27,13 @@ main {
     border-radius: 0.6rem;
 }
 
-@media (min-width: 51rem) {
+@media (min-width: 37.5rem) {
+    .features {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 65rem) {
     .features {
         height: 100vh;
         max-width: 65rem;

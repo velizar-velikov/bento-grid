@@ -1,0 +1,23 @@
+body {
+    background-color: #F5F5F5;
+}
+
+.img-wrapper {
+    width: 100%;
+}
+
+.img-wrapper>img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.features {
+    padding: 1.2rem;
+    display: grid;
+    gap: 1.7rem;
+}
+
+.feature {
+    border-radius: 0.6rem;
+}

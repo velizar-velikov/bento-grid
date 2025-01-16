@@ -44,3 +44,9 @@ p {
     letter-spacing: -1px;
     font-weight: var(--fw-400);
 }
+
+@media (min-width: 51rem) {
+    h2 {
+        line-height: 1.7rem;
+    }
+}

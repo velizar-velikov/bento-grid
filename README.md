@@ -10,8 +10,9 @@
 
 ## Design <-> Solution (Mobile)
 
-<img src="./design/mobile-design.jpg" alt="dsign_mobile" width="150"/>
-<img src="./solution-images/final_mobile.png" alt="final_solution_mobile" width="150"/>
+|                             Mobile design                              |                                     Mobile solution                                     |
+| :--------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+| <img src="./design/mobile-design.jpg" alt="dsign_mobile" width="150"/> | <img src="./solution-images/final_mobile.png" alt="final_solution_mobile" width="150"/> |
 
 ## Introduction
 

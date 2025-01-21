@@ -6,12 +6,12 @@
 
 ## My Desktop Solution
 
-![Final implementation Dektop](./final_desktop.png)
+![Final implementation Dektop](./solution-images/final_desktop.png)
 
 ## Design <-> Solution (Mobile)
 
 <img src="./design/mobile-design.jpg" alt="dsign_mobile" width="150"/>
-<img src="./final_mobile.png" alt="final_solution_mobile" width="150"/>
+<img src="./solution-images/final_mobile.png" alt="final_solution_mobile" width="150"/>
 
 ## Introduction
 
